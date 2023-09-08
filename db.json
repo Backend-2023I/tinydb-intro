@@ -1,0 +1,20 @@
+{
+    "_default": {
+        "1": {
+            "name": "Vali",
+            "age": 28
+        },
+        "3": {
+            "name": "Ali",
+            "age": 24
+        },
+        "4": {
+            "name": "Anvar",
+            "age": 24
+        },
+        "5": {
+            "name": "Ravshan",
+            "age": 23
+        }
+    }
+}
