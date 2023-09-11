@@ -16,5 +16,26 @@
             "name": "Ravshan",
             "age": 23
         }
+    },
+    "users": {
+        "1": {
+            "name": "Lucy",
+            "age": 28,
+            "country": "USA"
+        },
+        "2": {
+            "name": "Lucy",
+            "age": 28,
+            "country": "USA"
+        }
+    },
+    "programming_language": {
+        "1": {
+            "languabe": "Python",
+            "use": [
+                "Backend",
+                "AI"
+            ]
+        }
     }
 }
